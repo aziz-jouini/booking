@@ -1,4 +1,4 @@
-# description du branche 2 
+# Description du branche 2 
 Dans cette branche, je commence à développer la partie frontend côté utilisateur avec le framework React. Nous débutons en créant les composants Header et Navbar. Ensuite, nous appelons ces deux composants dans la page Home. Dans le fichier App.js, je crée la route pour la page Home.
 
 
